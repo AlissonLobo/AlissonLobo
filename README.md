@@ -2,7 +2,7 @@
 
 
 - 🖥  Hoje trabalho com FrontEnd
-- 💻 Estudando JavaScript e Vue.JS
+- 💻 Estudando possibilidades de um Dev Front.
 - 🎹 Programador Apaixonado por Música 
 
 
