@@ -2,7 +2,7 @@
 
 
 - 🖥  Hoje trabalho com FrontEnd
-- 💻 Estudando possibilidades de um Dev Front.
+- 💻 Estudando Engenharia de Dados
 - 🎹 Programador Apaixonado por Música 
 
 
